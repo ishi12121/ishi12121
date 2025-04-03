@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on nodejs. <br>👯 I’m looking to collaborate on Ishiscans(this will be a webtoon app with chat server creation functionality).<br>🌱 I’m currently learning nextjs and nestjs.<br>💬 Ask me about anything ..<br>⚡ Lets play valorant together [ZANGETSU#1010].
+🔭 I’m currently working on projects more than I can handle. <br>👯 I’m looking to collaborate on Ishis.<br>🌱 I’m currently learning golang go routines concurrency.<br>💬 Ask me about anything ..<br>⚡ I play valorant A Lot [ZANGETSU#1010].
 
 
 ## 🌐 Socials:
