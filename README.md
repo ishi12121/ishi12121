@@ -1,3 +1,7 @@
+- 👋 Hi, I’m @ishi12121
+- 👀 I’m interested in remote opportunities
+- 🌱 I’m currently learning GoLang
+- ⚡ yo
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ishitva-shukla-25b864218) 
