@@ -1,6 +1,3 @@
-# 💫 About Me:
-🔭 I’m currently working on projects more than I can handle. <br>👯 I’m looking to collaborate on My billion dollar startup idea.<br>🌱 I’m currently learning golang go routines concurrency.<br>💬 Ask me about anything ..<br>⚡ I play valorant A Lot [ZANGETSU#1010].
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ishitva-shukla-25b864218) 
